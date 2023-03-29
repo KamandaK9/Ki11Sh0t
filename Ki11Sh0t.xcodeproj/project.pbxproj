@@ -29,6 +29,7 @@
 		0C28467F29D4392F007989C6 /* Tile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C28467E29D4392F007989C6 /* Tile.swift */; };
 		0C28468129D4395B007989C6 /* Tilemap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C28468029D4395B007989C6 /* Tilemap.swift */; };
 		0C28468329D43D05007989C6 /* Map.json in Resources */ = {isa = PBXBuildFile; fileRef = 0C28468229D43D05007989C6 /* Map.json */; };
+		0C28468529D43FB5007989C6 /* Thing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C28468429D43FB5007989C6 /* Thing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +80,7 @@
 		0C28467E29D4392F007989C6 /* Tile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tile.swift; sourceTree = "<group>"; };
 		0C28468029D4395B007989C6 /* Tilemap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tilemap.swift; sourceTree = "<group>"; };
 		0C28468229D43D05007989C6 /* Map.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Map.json; sourceTree = "<group>"; };
+		0C28468429D43FB5007989C6 /* Thing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Thing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				0C28467C29D434D8007989C6 /* Rect.swift */,
 				0C28467E29D4392F007989C6 /* Tile.swift */,
 				0C28468029D4395B007989C6 /* Tilemap.swift */,
+				0C28468429D43FB5007989C6 /* Thing.swift */,
 			);
 			path = Engine;
 			sourceTree = "<group>";
@@ -282,6 +285,7 @@
 				0C28468129D4395B007989C6 /* Tilemap.swift in Sources */,
 				0C28467529D415E2007989C6 /* Renderer.swift in Sources */,
 				0C28466429D40D15007989C6 /* Engine.docc in Sources */,
+				0C28468529D43FB5007989C6 /* Thing.swift in Sources */,
 				0C28467729D41950007989C6 /* Vector.swift in Sources */,
 				0C28467D29D434D8007989C6 /* Rect.swift in Sources */,
 				0C28467129D40EE0007989C6 /* Bitmap.swift in Sources */,
